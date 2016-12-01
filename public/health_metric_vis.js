@@ -41,7 +41,7 @@ define(function (require) {
           name: 'metric',
           title: 'Metric',
           min: 1,
-          max: 1,
+          max: 2,
           defaults: [
             { type: 'count', schema: 'metric' }
           ]
